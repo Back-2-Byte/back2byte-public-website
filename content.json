@@ -18,9 +18,9 @@
       },
       "hero": {
         "eyebrow": "ENGENHARIA DE GAMES · SOLUÇÕES B2B",
-        "titleStart": "Te damos o byte.",
-        "titleEnd": "Te damos cobertura.",
-        "body": "Te damos o byte. Te damos cobertura. Criamos experiências interativas e soluções técnicas, do primeiro protótipo ao suporte contínuo.",
+        "titleStart": "Estamos contigo,",
+        "titleEnd": "desde o primeiro byte.",
+        "body": "Estamos contigo, desde o primeiro byte. Criamos experiências interativas e soluções técnicas, do primeiro protótipo ao suporte contínuo.",
         "primary": "Agendar uma conversa estratégica",
         "secondary": "Conhecer soluções B2B",
         "scroll": "ROLE PARA EXPLORAR"
@@ -183,7 +183,7 @@
         "label": "Bugs Devorados"
       },
       "footer": {
-        "tagline": "Te damos o byte. Te damos cobertura."
+        "tagline": "Estamos contigo, desde o primeiro byte."
       },
       "ui": {
         "skipLink": "Pular para o conteúdo",
